@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      Chamoda dasanayake
+      ridmi chamoda dasanayake
     </div>
   );
 }
